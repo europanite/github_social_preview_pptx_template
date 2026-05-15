@@ -30,6 +30,8 @@ GitHub 소셜 미리보기 이미지는 다음 크기로 만들어야 합니다.
 
 ## 다운로드:
 
+[Download github_social_preview.pptx](https://github.com/europanite/github_social_preview_pptx_template/raw/main/github_social_preview.pptx)
+
 ```bash
 curl -L -o github_social_preview.pptx \
   https://github.com/europanite/github_social_preview_pptx_template/raw/main/github_social_preview.pptx

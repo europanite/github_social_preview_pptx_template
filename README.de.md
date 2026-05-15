@@ -30,6 +30,8 @@ Du kannst Text, Farben und Layout anpassen und dabei diese Größe beibehalten.
 
 ## Download:
 
+[Download github_social_preview.pptx](https://github.com/europanite/github_social_preview_pptx_template/raw/main/github_social_preview.pptx)
+
 ```bash
 curl -L -o github_social_preview.pptx \
   https://github.com/europanite/github_social_preview_pptx_template/raw/main/github_social_preview.pptx

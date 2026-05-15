@@ -30,6 +30,8 @@ GitHub 社交预览图片应按以下尺寸创建：
 
 ## 下载:
 
+[Download github_social_preview.pptx](https://github.com/europanite/github_social_preview_pptx_template/raw/main/github_social_preview.pptx)
+
 ```bash
 curl -L -o github_social_preview.pptx \
   https://github.com/europanite/github_social_preview_pptx_template/raw/main/github_social_preview.pptx

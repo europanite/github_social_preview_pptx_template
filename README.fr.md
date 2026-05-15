@@ -30,6 +30,8 @@ Vous pouvez personnaliser le texte, les couleurs et la mise en page tout en cons
 
 ## Téléchargement:
 
+[Download github_social_preview.pptx](https://github.com/europanite/github_social_preview_pptx_template/raw/main/github_social_preview.pptx)
+
 ```bash
 curl -L -o github_social_preview.pptx \
   https://github.com/europanite/github_social_preview_pptx_template/raw/main/github_social_preview.pptx
