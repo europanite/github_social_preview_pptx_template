@@ -14,39 +14,39 @@
 
 !["image"](./assets/images/image.png)
 
-A PowerPoint template for creating GitHub social preview images.
+Un modèle PowerPoint pour créer des images d’aperçu social GitHub.
 
-## Overview
+## Présentation
 
-This template is designed for GitHub social preview images.
+Ce modèle est conçu pour les images d’aperçu social GitHub.
 
-GitHub social preview images should be created at:
+Les images d’aperçu social GitHub doivent être créées au format suivant :
 
 ```text
 1280 x 640 px
 ```
 
-You can customize the text, colors, and layout while keeping this size.
+Vous pouvez personnaliser le texte, les couleurs et la mise en page tout en conservant ce format.
 
-## Download:
+## Téléchargement:
 
 ```bash
 curl -L -o github_social_preview.pptx \
   https://github.com/europanite/github_social_preview_pptx_template/raw/main/github_social_preview.pptx
 ```
 
-Or use `wget`:
+Ou utilisez `wget` :
 
 ```bash
 wget -O github_social_preview.pptx \
   https://github.com/europanite/github_social_preview_pptx_template/raw/main/github_social_preview.pptx
 ```
 
-### Requirements
-- Google Slides (import the .pptx file), or
+### Prérequis
+- Google Slides (importez le fichier .pptx), ou
 - Microsoft PowerPoint
 
 ---
 
-## License
+## Licence
 - Apache License 2.0
