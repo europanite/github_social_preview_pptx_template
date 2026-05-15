@@ -30,6 +30,10 @@ You can customize the text, colors, and layout while keeping this size.
 
 ## Download:
 
+## Download
+
+[Download github_social_preview.pptx](https://github.com/europanite/github_social_preview_pptx_template/raw/main/github_social_preview.pptx)
+
 ```bash
 curl -L -o github_social_preview.pptx \
   https://github.com/europanite/github_social_preview_pptx_template/raw/main/github_social_preview.pptx
